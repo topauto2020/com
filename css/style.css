@@ -1,0 +1,140 @@
+p{
+font-size: 25px;
+color: black;
+}
+
+i{
+color: gold;
+}
+
+i:hover{
+	color: green;
+transition: color 1s linear;
+font-size: 100px;
+transition: font-size 1s linear;
+}
+a{
+font-size: 25px;
+color: black;
+}
+
+.div1{
+border: 5px gold inset;
+margin: 10px;
+padding: 10px;
+border-radius: 10px;
+}
+
+.div2{
+border: 5px gold inset;
+margin: 10px;
+padding: 10px;
+border-radius: 10px;
+}
+
+.div3{
+border: 5px gold inset;
+margin: 10px;
+padding: 10px;
+border-radius: 10px;
+}
+
+.div4{
+border: 5px gold inset;
+margin: 10px;
+padding: 10px;
+border-radius: 10px;
+}
+
+.div5{
+border: 5px green inset;
+margin: 10px;
+padding: 10px;
+border-radius: 10px;
+}
+
+.div6{
+border: 5px green inset;
+margin: 10px;
+padding: 10px;
+border-radius: 10px;
+}
+
+.div7{
+border: 5px tomato inset ;
+margin: 10px;
+padding: 10px;
+border-radius: 10px;
+}
+
+.div8{
+border: 5px tomato inset;
+margin: 10px;
+padding: 10px;
+border-radius: 10px;
+}
+
+.div9{
+border: 5px tomato inset;
+margin: 10px;
+padding: 10px;
+border-radius: 10px;
+}
+
+.div10{
+border: 5px aqua inset;
+margin: 10px;
+padding: 10px;
+border-radius: 10px;
+}
+
+.div11{
+border: 5px aqua inset;
+margin: 10px;
+padding: 10px;
+border-radius: 10px;
+}
+
+.div12{
+border: 5px blue inset;
+margin: 10px;
+padding: 10px;
+border-radius: 10px;
+}
+
+.div13{
+border: 5px blue inset;
+margin: 10px;
+padding: 10px;
+border-radius: 10px;
+}
+
+.img1{
+border: 5px blue inset;
+margin: 10px;
+padding: 10px;
+border-radius: 10px;
+width: 980px;
+height: 498px;
+}
+
+table{
+border: 2px gold solid;
+background: gray;
+width: 400px;
+}
+
+.tr1{
+background: gold;
+}
+
+.td1{
+background: gold;
+}
+
+
+td:hover{
+background: greenyellow ;
+height: 60px;
+transition: background-color 1s linear ;
+}
